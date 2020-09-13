@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997717106763",
+    "firebase_url": "https://cervis-jobapplication.firebaseio.com",
+    "project_id": "cervis-jobapplication",
+    "storage_bucket": "cervis-jobapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997717106763:android:c4fa09fa0c05d257e5edce",
+        "android_client_info": {
+          "package_name": "com.example.cervis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997717106763-2mja8al2an3op0tfi3ng7hpfuplvj7o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cervis",
+            "certificate_hash": "d215b7d55c115749710f6860323781c904fb2013"
+          }
+        },
+        {
+          "client_id": "997717106763-q16ini65uvuh6sdrm25v1ab7mqetggav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEm2a7JuWyDZGODBGL5oRTNlbUvoQu3W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997717106763-q16ini65uvuh6sdrm25v1ab7mqetggav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

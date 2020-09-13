@@ -1,5 +1,513 @@
 [
     {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_subheader.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/subheader.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_personal_information.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/personal_information.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_google3xl3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/google3xl3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_subhead.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/subhead.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/confirmpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_title_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/title_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_google3x2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/google3x2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_subhead.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/subhead.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_subhead.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/subhead.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_headline3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/headline3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_googlepixel3_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/googlepixel3_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_forgotpasswd2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/forgotpasswd2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_signup.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/signup.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-v24_logo.PNG.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-v24/logo.PNG"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_main_logo.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/main_logo.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/confirmpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/confirmpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_title_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/title_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_start_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/start_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_start_4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/start_4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_input.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/input.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_input3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/input3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_forgotpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/forgotpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_forgotpsswd.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/forgotpsswd.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_googlepixel4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/googlepixel4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/xml_activity_details2_scene.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/xml/activity_details2_scene.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_title_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/title_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/shortlist.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_login4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/login4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_subhead.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/subhead.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_start_5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/start_5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_round_btn.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/round_btn.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_rectngle5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/rectngle5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_headline3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/headline3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_categories4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/categories4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_back.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_categories5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/categories5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/shortlist.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_google3x4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/google3x4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_forgotpasword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/forgotpasword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_login2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/login2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_google3xl2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/google3xl2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_input6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/input6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_google3x12.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/google3x12.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_categories.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/categories.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.PNG.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/logo.PNG"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_google3x3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/google3x3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_google3xl6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/google3xl6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_headline4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/headline4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_forgotpassord.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/forgotpassord.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_login5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/login5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.PNG.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/logo.PNG"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_google3x.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/google3x.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/shortlist.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_rectngle4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/rectngle4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_continue1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/continue1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_headline5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/headline5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_googlepixel3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/googlepixel3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_google3xl5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/google3xl5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_google3x13.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/google3x13.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_title_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/title_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_signup_5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/signup_5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/map_of_africa.png"
+    },
+    {
         "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
@@ -8,59 +516,427 @@
         "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_forgotpassword1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/forgotpassword1.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_persndetails6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/persndetails6.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/password.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/shortlist.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable_cervis.PNG.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable/cervis.PNG"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/confirmpassword.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/path.png"
     },
     {
         "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/cervis.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_background_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/background_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_perndetails.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/perndetails.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_rectangle1_35.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/rectangle1_35.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_googlepixel3_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/googlepixel3_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_googlepixel2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/googlepixel2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_input4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/input4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_login3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/login3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_rectngle3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/rectngle3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_background_final.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/background_final.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_kategories.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/kategories.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/layout_activity_details2.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/layout/activity_details2.xml"
     },
     {
         "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/king/Desktop/Cervis/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_signup_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/signup_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_input5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/input5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_persndetails.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/persndetails.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_rectangle35.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/rectangle35.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_headline2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/headline2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_rectangle_135.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/rectangle_135.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_categories3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/categories3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_rectngle.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/rectngle.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_facebook.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/facebook.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/shortlist.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_categories6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/categories6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_headlin.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/headlin.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_subheader_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/subheader_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_background_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/background_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_headline3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/headline3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_login6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/login6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_google3x1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/google3x1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/confirmpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_map_of_africa.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/map_of_africa.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_google3x5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/google3x5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_signup1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/signup1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_input2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/input2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_forgotpasword2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/forgotpasword2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_signup_6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/signup_6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_path.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/path.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_signnup.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/signnup.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_forgotpasswd4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxxhdpi/forgotpasswd4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_googlepixel6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/googlepixel6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_rectngle6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/rectngle6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_rectangle_3.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/rectangle_3.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_signup_4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/signup_4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_googlepixel5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/googlepixel5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_rectngle2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/rectngle2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_start_6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/start_6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_title.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_confirmpassword.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/confirmpassword.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_rectangle135.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/rectangle135.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_cervis.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xxhdpi/cervis.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_mainbackground.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/mainbackground.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_login.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/login.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_title_1.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/title_1.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-mdpi_background.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_login_3px.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/login_3px.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_rectangle.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/rectangle.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_start_2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/start_2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/password.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_persndetails4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/persndetails4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_headline6.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/headline6.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_persndetails5.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/persndetails5.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_categories2.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/categories2.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_unnamed.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxxhdpi/unnamed.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-ldpi_headline.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-ldpi/headline.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xxhdpi_password.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xxhdpi/password.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_shortlist.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/shortlist.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_start.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/start.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-xhdpi_google3xl4.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-xhdpi/google3xl4.png"
+    },
+    {
+        "merged": "/home/king/Desktop/Cervis/app/build/intermediates/res/merged/debug/drawable-hdpi_google3xl.png.flat",
+        "source": "/home/king/Desktop/Cervis/app/src/main/res/drawable-hdpi/google3xl.png"
     }
 ]
